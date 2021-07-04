@@ -1,0 +1,57 @@
+@media(max-width:575px){
+    .navbar{
+        padding: 0%;
+        padding-top: 20px;}
+
+        .span_p_button .ceoluse_2 {
+            font-size: 23px;            
+        }
+
+        .span_p_button .psd_templat {
+            font-size: 20px;
+            }
+
+            .img_1 {
+                width: 100%;
+                padding: 20px;
+            }
+
+            .img_2 {
+                padding: 20px;
+            }
+            .sss {
+                width: 100%;
+                margin: 0px;
+                padding: 20px;
+            }
+
+            .headphon {
+                background-size: 60%;
+                margin: 0px;
+                padding: 10px 0;
+                }           
+                
+            .vew_more{
+                margin-left: 30%;
+            }
+            .banner{
+                margin: 30px 0;
+            }
+            .feture{
+                margin: 0px;
+                padding: 0px;
+                background-size: 0px;
+            }
+
+            .mobile_3 {
+                margin: 30px 0;}
+
+                .img_loyer {
+                    width: 80%;
+                }
+               
+          
+
+
+
+}
